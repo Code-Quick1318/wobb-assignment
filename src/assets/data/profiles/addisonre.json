@@ -1,0 +1,25 @@
+{
+  "cached": true,
+  "data": {
+    "success": true,
+    "user_profile": {
+      "type": "tiktok",
+      "user_id": "6703550784929793030",
+      "username": "addisonre",
+      "url": "https://www.tiktok.com/@addisonre",
+      "picture": "https://imgp.sptds.icu/v2?9gRRkBbg4nctjMDXek72QaA0lwJ%2B7AvoxtJKlEuzU8RZC78ehYBtaTYOSfFVCKJi%2BDVBhSRyFL08LuSDGfZzLzRZORFHXE6wIKw2XbAJTtO8wwLm%2BzxIE5LHyriJ3N9sS%2FGfIvCb4BWfDz3VLG%2Fwfg%3D%3D",
+      "fullname": "Addison Rae",
+      "description": "Just a girl from Louisiana living her dreams ✨",
+      "is_verified": true,
+      "gender": "FEMALE",
+      "age_group": "18-24",
+      "followers": 88807158,
+      "posts_count": 1500,
+      "engagements": 242750,
+      "engagement_rate": 0.002733450832870927,
+      "avg_likes": 242750,
+      "avg_comments": 5100,
+      "avg_views": 7878571
+    }
+  }
+}

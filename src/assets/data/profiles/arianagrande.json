@@ -1,0 +1,26 @@
+{
+  "cached": true,
+  "data": {
+    "success": true,
+    "user_profile": {
+      "type": "instagram",
+      "user_id": "7719696",
+      "username": "arianagrande",
+      "url": "https://www.instagram.com/arianagrande/",
+      "picture": "https://imgp.sptds.icu/v2?mb0KwpL92uYofJiSjDn1%2F6peL1lBwv3s%2BUvShHERlDYEJpPTTZOdwDEdj3qpQOUit3I9aeOO7GAWMnzHrelk7H8SloQcp0XfJYhm427melrR0jOsMA6ofEFCoAjoORu%2BgNlJUwVYqIiahjW32e%2BqWA%3D%3D",
+      "fullname": "Ariana Grande",
+      "description": "thank u, next 💿",
+      "is_verified": true,
+      "is_business": true,
+      "gender": "FEMALE",
+      "age_group": "25-34",
+      "followers": 376495998,
+      "posts_count": 740,
+      "engagements": 1836553,
+      "engagement_rate": 0.004878014666174486,
+      "avg_likes": 1836553,
+      "avg_comments": 22000,
+      "avg_reels_plays": 25000000
+    }
+  }
+}

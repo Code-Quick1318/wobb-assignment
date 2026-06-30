@@ -1,0 +1,25 @@
+{
+  "cached": true,
+  "data": {
+    "success": true,
+    "user_profile": {
+      "type": "tiktok",
+      "user_id": "68616495085350913",
+      "username": "zachking",
+      "url": "https://www.tiktok.com/@zachking",
+      "picture": "https://imgp.sptds.icu/v2?9gRRkBbg4nctjMDXek72QaD1Z6ujEs9fS8Aa10L%2B0D9PSnwGULyUDZKTdiD0Vp6pxpbk%2FPQaHD7NTqKqI9CLXuu%2BsK4zB%2F0d3EUPh5epJtxGt05XyJ7Bx5UZKkv9WCBkQV8ZLS2lamc1JGozAZlmzQ%3D%3D",
+      "fullname": "Zach King",
+      "description": "Magic. Illusion. Storytelling. 🪄",
+      "is_verified": true,
+      "gender": "MALE",
+      "age_group": "25-34",
+      "followers": 82200000,
+      "posts_count": 1200,
+      "engagements": 359320,
+      "engagement_rate": 0.0043712895377128955,
+      "avg_likes": 359320,
+      "avg_comments": 5200,
+      "avg_views": 8180000
+    }
+  }
+}

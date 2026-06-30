@@ -1,0 +1,26 @@
+{
+  "cached": true,
+  "data": {
+    "success": true,
+    "user_profile": {
+      "type": "youtube",
+      "user_id": "UC-lHJZR3Gqxm24_Vd_AJ5Yw",
+      "username": "PewDiePie",
+      "handle": "PewDiePie",
+      "url": "https://www.youtube.com/channel/UC-lHJZR3Gqxm24_Vd_AJ5Yw",
+      "picture": "https://yt3.googleusercontent.com/5oUY3tashyxfqsjO5SGhjT4dus8FkN9CsAHwXWISFrdPYii1FudD4ICtLfuCw6-THJsJbgoY=s480-c-k-c0x00ffffff-no-rj",
+      "fullname": "PewDiePie",
+      "description": "I make videos. Subscribe if you enjoy them. It's that simple.\n\nBusiness email: contact@creatoriq.com",
+      "is_verified": true,
+      "gender": "MALE",
+      "age_group": "25-34",
+      "followers": 110000000,
+      "posts_count": 4600,
+      "engagements": 144945,
+      "engagement_rate": 0.001317681818181818,
+      "avg_views": 2629350,
+      "avg_likes": 144945,
+      "avg_comments": 8200
+    }
+  }
+}

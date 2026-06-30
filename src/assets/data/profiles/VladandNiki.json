@@ -1,0 +1,23 @@
+{
+  "cached": true,
+  "data": {
+    "success": true,
+    "user_profile": {
+      "type": "youtube",
+      "user_id": "UCvlE5gTbOvjiolFlEm-c_Ow",
+      "handle": "VladandNiki",
+      "url": "https://www.youtube.com/channel/UCvlE5gTbOvjiolFlEm-c_Ow",
+      "picture": "https://yt3.googleusercontent.com/RlnpUc0SBCmYvseTqUqAfYeyHw0nHcmqQIVS0vMcTKpk3gQAY0ZZY1JpUxxjLPAYROhDYKub=s480-c-k-c0x00ffffff-no-rj",
+      "fullname": "Vlad and Niki",
+      "description": "Vlad and Niki - fun and educational videos for kids! Watch our adventures and learn with us.",
+      "is_verified": true,
+      "followers": 126000000,
+      "posts_count": 500,
+      "engagements": 34281,
+      "engagement_rate": 0.0002720714285714286,
+      "avg_views": 5241063,
+      "avg_likes": 34281,
+      "avg_comments": 1800
+    }
+  }
+}

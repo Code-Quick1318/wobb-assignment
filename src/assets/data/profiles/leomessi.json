@@ -1,0 +1,26 @@
+{
+  "cached": true,
+  "data": {
+    "success": true,
+    "user_profile": {
+      "type": "instagram",
+      "user_id": "427553890",
+      "username": "leomessi",
+      "url": "https://www.instagram.com/leomessi/",
+      "picture": "https://imgp.sptds.icu/v2?mb0KwpL92uYofJiSjDn1%2F6peL1lBwv3s%2BUvShHERlDZ%2Fuc3eREMYRmlucP5lauWcv6msIdJyXoX4InVT7yxdOsz4KE9uiowYNvq28rF0o9UXettqidCaKTJ5EaTYrNIbrOPQt%2BBH8xfdE2dL1avFgg%3D%3D",
+      "fullname": "Leo Messi",
+      "description": "🐐",
+      "is_verified": true,
+      "is_business": false,
+      "gender": "MALE",
+      "age_group": "35-44",
+      "followers": 504251028,
+      "posts_count": 1050,
+      "engagements": 3462136,
+      "engagement_rate": 0.00686589775281529,
+      "avg_likes": 3462136,
+      "avg_comments": 42000,
+      "avg_reels_plays": 38000000
+    }
+  }
+}

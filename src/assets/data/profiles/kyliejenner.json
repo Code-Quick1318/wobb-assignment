@@ -1,0 +1,26 @@
+{
+  "cached": true,
+  "data": {
+    "success": true,
+    "user_profile": {
+      "type": "instagram",
+      "user_id": "12281817",
+      "username": "kyliejenner",
+      "url": "https://www.instagram.com/kyliejenner/",
+      "picture": "https://imgp.sptds.icu/v2?mb0KwpL92uYofJiSjDn1%2F6peL1lBwv3s%2BUvShHERlDbi%2FzCyzJZ6fg43%2BYylAG3qU9IHUr9IjyPjlrZFWjLnxqoc%2FkAWmZPskfobrJMaRRydFJEk1zghbcXnXQJlx7gogNlJUwVYqIiahjW32e%2BqWA%3D%3D",
+      "fullname": "Kylie",
+      "description": "snap: kylizzlemynizzl 👻",
+      "is_verified": true,
+      "is_business": true,
+      "gender": "FEMALE",
+      "age_group": "25-34",
+      "followers": 396278529,
+      "posts_count": 7100,
+      "engagements": 2288558,
+      "engagement_rate": 0.005775124899587986,
+      "avg_likes": 2288558,
+      "avg_comments": 18000,
+      "avg_reels_plays": 16000000
+    }
+  }
+}

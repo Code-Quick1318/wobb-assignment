@@ -1,0 +1,26 @@
+{
+  "cached": true,
+  "data": {
+    "success": true,
+    "user_profile": {
+      "type": "instagram",
+      "user_id": "232192182",
+      "username": "therock",
+      "url": "https://www.instagram.com/therock/",
+      "picture": "https://imgp.sptds.icu/v2?mb0KwpL92uYofJiSjDn1%2F6peL1lBwv3s%2BUvShHERlDbrEEwrWumIvR20xZeZXa0LDeIrcniqZeG9S%2F1a5s2Rx3FZdXrWpY%2BmSBJp1l%2FmBGon3rcHA4EfuatZqMhVBzAT",
+      "fullname": "Dwayne Johnson",
+      "description": "Cheat meal enthusiast. Whiskey drinker. Gym rat. Proud papa. Actor. Producer. Part-Samoan. Teremana tequila owner & @zoa energy. @sevenbucksprod.",
+      "is_verified": true,
+      "is_business": true,
+      "gender": "MALE",
+      "age_group": "45-54",
+      "followers": 395083239,
+      "posts_count": 8200,
+      "engagements": 570699,
+      "engagement_rate": 0.0014445031924019435,
+      "avg_likes": 570699,
+      "avg_comments": 12000,
+      "avg_reels_plays": 14000000
+    }
+  }
+}

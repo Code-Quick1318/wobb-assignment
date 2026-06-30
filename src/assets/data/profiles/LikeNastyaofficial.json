@@ -1,0 +1,23 @@
+{
+  "cached": true,
+  "data": {
+    "success": true,
+    "user_profile": {
+      "type": "youtube",
+      "user_id": "UCJplp5SjeGSdVdwsfb9Q7lQ",
+      "handle": "LikeNastyaofficial",
+      "url": "https://www.youtube.com/channel/UCJplp5SjeGSdVdwsfb9Q7lQ",
+      "picture": "https://yt3.googleusercontent.com/ytc/AIdro_kj6ASR_jV8XSSGF_SSD4hUBJInCWwWRlR2mxEcwGVQW4s=s480-c-k-c0x00ffffff-no-rj",
+      "fullname": "Like Nastya",
+      "description": "Hi! I'm Nastya, and I love making fun videos for kids! Join me on my adventures and let's learn together through play.",
+      "is_verified": true,
+      "followers": 121000000,
+      "posts_count": 700,
+      "engagements": 66098,
+      "engagement_rate": 0.0005462644628099173,
+      "avg_views": 10535390,
+      "avg_likes": 66098,
+      "avg_comments": 2400
+    }
+  }
+}

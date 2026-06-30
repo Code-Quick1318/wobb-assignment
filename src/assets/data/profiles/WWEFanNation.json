@@ -1,0 +1,24 @@
+{
+  "cached": true,
+  "data": {
+    "success": true,
+    "user_profile": {
+      "type": "youtube",
+      "user_id": "UCJ5v_MCY6GNUBTO8-D3XoAg",
+      "username": "WWEFanNation",
+      "handle": "WWE",
+      "url": "https://www.youtube.com/channel/UCJ5v_MCY6GNUBTO8-D3XoAg",
+      "picture": "https://yt3.googleusercontent.com/ytc/AIdro_kRzpOO6EOnWYXSBHEhJft2_uVXk2uIjCWVJSAlAOCUOdgc=s480-c-k-c0x00ffffff-no-rj",
+      "fullname": "WWE",
+      "description": "The official WWE YouTube channel. Watch WWE Superstars in action with exclusive clips, highlights, and full matches.",
+      "is_verified": true,
+      "followers": 105000000,
+      "posts_count": 60000,
+      "engagements": 15179,
+      "engagement_rate": 0.00014456190476190477,
+      "avg_views": 292229,
+      "avg_likes": 15179,
+      "avg_comments": 980
+    }
+  }
+}

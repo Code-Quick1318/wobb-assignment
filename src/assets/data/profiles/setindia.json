@@ -1,0 +1,24 @@
+{
+  "cached": true,
+  "data": {
+    "success": true,
+    "user_profile": {
+      "type": "youtube",
+      "user_id": "UCpEhnqL0y41EpW2TvWAHD7Q",
+      "username": "setindia",
+      "handle": "SETIndia",
+      "url": "https://www.youtube.com/channel/UCpEhnqL0y41EpW2TvWAHD7Q",
+      "picture": "https://yt3.googleusercontent.com/eu051krrRNQMMi5h6ynfnvhFJzxzSKulJQ42g5v72MQ9Bvv8KdpNIa6yM-0iGpnDgSF0itAD=s480-c-k-c0x00ffffff-no-rj",
+      "fullname": "SET India",
+      "description": "SET India is home to some of the most popular Hindi General Entertainment shows. Watch your favourite shows like Taarak Mehta Ka Ooltah Chashmah, Balveer, CID and many more on Sony LIV.",
+      "is_verified": true,
+      "followers": 178000000,
+      "posts_count": 85000,
+      "engagements": 357,
+      "engagement_rate": 0.0000020056179775280897,
+      "avg_views": 15027,
+      "avg_likes": 357,
+      "avg_comments": 48
+    }
+  }
+}
