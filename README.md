@@ -1,6 +1,6 @@
 # Wobb Influencer Search — Submission
 
-**Live demo:** [https://wobb-assignment.vercel.app](https://wobb-assignment.vercel.app) ← replace with your actual URL after deployment
+**Live demo:** [https://wobbproject.vercel.app](https://wobbproject.vercel.app)
 
 A polished influencer discovery tool built with React 19, TypeScript, Vite, Tailwind CSS v4, and Zustand.
 
